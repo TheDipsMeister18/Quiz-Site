@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "quiz-website-5ef88"
+  },
+  "targets": {
+    "quiz-website-5ef88": {
+      "hosting": {
+        "tr": [
+          "quiz-website-5ef88"
+        ]
+      }
+    }
+  }
+}
